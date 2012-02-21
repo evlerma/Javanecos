@@ -1,4 +1,4 @@
-package org.javahispano.javacup.tacticas.javanecos;
+package org.javahispano.javacup.tacticas.tacticas_aceptadas.javanecos;
 
 import org.javahispano.javacup.model.*;
 import org.javahispano.javacup.model.util.Constants;
